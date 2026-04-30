@@ -50,8 +50,6 @@ Ensure the database file path matches your local environment.
 ### Running the Application
 Run the project using Visual Studio 2019.
 Once the application starts, open the browser to view the Blazor ListView populated with data retrieved through Entity Framework.
-An example output can be seen below:
-`./Client/wwwroot/images/EFListView.gif`
 
 ## Configuration
 The ListView and Entity Framework configuration is handled through:
